@@ -1,0 +1,17 @@
+@import url(./popup.css);
+@import url(./_opened/popup_opened.css);
+@import url(./_zoom/popup_zoom_active.css);
+@import url(./__container/popup__container.css);
+@import url(./__zoom-container/popup__zoom-container.css);
+@import url(./__close/popup__close.css);
+@import url(./__name/popup__name.css);
+@import url(./__description/popup__description.css);
+@import url(./__image/popup__image.css);
+@import url(./__form/popup__form.css);
+@import url(./__label/popup__label.css);
+@import url(./__input/popup__input.css);
+@import url(./__input/_type/popup__input_type_error.css);
+@import url(./__input-error/popup__input-error.css);
+@import url(./__input/_type/popup__input_type_visible.css);
+@import url(./__submit/popup__submit.css);
+@import url(./__submit/_disabled/popup__submit_disabled.css);
